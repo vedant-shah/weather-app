@@ -6,7 +6,7 @@ function search() {
   // console.log(city);
   let api_key = config.api_key;
 
-  let url = `http://api.weatherapi.com/v1/current.json?key=${api_key}&q=${city}`;
+  let url = `https://api.weatherapi.com/v1/current.json?key=${api_key}&q=${city}`;
   // console.log(url);
   fetch(url)
     .then(response => response.json())
