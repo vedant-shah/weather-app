@@ -64,6 +64,10 @@ function search() {
               </div>
           
             </div>
+
+            <div class="container" style="margin-top: 20%;">
+    Powered by <a href="https://www.weatherapi.com/" title="Free Weather API">WeatherAPI.com</a>
+    </div>
                             `
 
       // document.getElementById('head').remove();
