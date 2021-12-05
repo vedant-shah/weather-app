@@ -6,8 +6,8 @@
 [Netlify](https://weather-app-vedant-shah.netlify.app/)
 
 # Preview: 
-![Home Page](https://imgur.com/jVBLwRN)
-![Weather Page](https://imgur.com/wumMnmf)
+![Home Page](https://github.com/vedant-shah/weather-app/blob/master/preview/home.png)
+![Weather Page](https://github.com/vedant-shah/weather-app/blob/master/preview/weather.png)
 
 # Tech Stack:
 - `HTML5`
