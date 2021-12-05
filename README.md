@@ -5,7 +5,7 @@
 # Deployed On:
 [Netlify](https://weather-app-vedant-shah.netlify.app/)
 
-#Tech Stack:
+# Tech Stack:
 - 'HTML5'
 - 'CSS3'
 - 'Bootstrap 4'
