@@ -12,10 +12,12 @@
 ![Weather Page](https://github.com/vedant-shah/weather-app/blob/master/preview/weather.png)
 
 # Tech Stack:
+- `Java Script`
+- `Bootstrap 4`
 - `HTML5`
 - `CSS3`
-- `Bootstrap 4`
-- `Java Script`
+
+
 
 # Weather Api
 https://www.weatherapi.com/
