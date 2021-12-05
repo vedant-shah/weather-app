@@ -8,8 +8,8 @@
 # Tech Stack:
 - `HTML5`
 - `CSS3`
-- `Bootstrap 4'
-- `Java Script'
+- `Bootstrap 4`
+- `Java Script`
 
 # Weather Api
 https://www.weatherapi.com/
