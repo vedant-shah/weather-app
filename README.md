@@ -5,6 +5,10 @@
 # Deployed On:
 [Netlify](https://weather-app-vedant-shah.netlify.app/)
 
+# Preview: 
+![Home Page](https://imgur.com/jVBLwRN)
+![Weather Page](https://imgur.com/wumMnmf)
+
 # Tech Stack:
 - `HTML5`
 - `CSS3`
